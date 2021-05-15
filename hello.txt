@@ -1,3 +1,4 @@
 hello atduig! hello git! master test
+hello atduig! hello git! hot-fix test
 hello atduig! hello git!
 hello atduig! hello git!
